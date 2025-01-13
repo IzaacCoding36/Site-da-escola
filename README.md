@@ -1,5 +1,5 @@
 # _Site da Escola_
-Este repositório foi criado para compartilhar o meu projeto de site sobre a minha escola na qual eu estudo
+Este repositório foi criado para compartilhar o meu projeto de site sobre a escola na qual eu estudei
 
 ## _Site_
 
