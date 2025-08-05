@@ -1,4 +1,8 @@
-# _Site da Escola_
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=17&pause=1000&color=000000&background=FF8800&center=true&vCenter=true&width=1000&height=100&lines=Col%C3%A9gio+Estadual+Hasdrubal+Bellegard)](https://git.io/typing-svg)
+
+---
+
+# _Site do Colégio_
 Este repositório foi criado para compartilhar o meu projeto de site sobre a escola na qual eu estudei
 
 ## _Site_
