@@ -3,7 +3,7 @@
 ---
 
 # _Site do Colégio_
-Este repositório foi criado para compartilhar o meu projeto de site sobre a escola na qual eu estudei
+Este repositório foi criado para compartilhar o meu projeto de site sobre o colégio na qual eu estudei
 
 ## _Site_
 
